@@ -1,0 +1,9 @@
+Starting Vue.js App:
+==
+Documentation: https://vuetifyjs.com/en/getting-started/quick-start
+
+* cd into project directory
+	example: /c/Users/Yogev Zindani/projects/todo-list-app
+* run the app:
+	> npm run serve
+* Open favorite IDE (VSC) and edit the project.
